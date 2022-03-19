@@ -67,8 +67,6 @@ runTest()
 
 
 /////////////////////// datadog ////////////////////////////
-
-
 return (async function () {
     const sizeBTN = [...document.getElementsByClassName('atc-item-category')]
     let result = true 
